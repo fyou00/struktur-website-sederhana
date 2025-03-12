@@ -7,16 +7,16 @@
 **Mata Kuliah:** Pemrograman Web Dasar  
 
 ## Deskripsi Proyek
-Repositori ini berisi proyek tugas mata kuliah **Pemrograman Web Dasar** berupa sebuah website sederhana untuk **Restoran Lezat**. Website ini dibuat menggunakan **HTML** dasar untuk menampilkan informasi restoran, menu, serta formulir kontak.
+Repositori ini berisi proyek tugas mata kuliah **Pemrograman Web Dasar** berupa sebuah website sederhana untuk menampilkan informasi sederhana **Jenis jenis Kucing**. Website ini dibuat menggunakan **HTML** dasar untuk menampilkan informasi jenis-jenis kucing, makanan kucing, serta formulir kontak.
 
 ## Fitur Website
-- Halaman utama dengan informasi tentang restoran.
-- Tampilan daftar menu dengan gambar dan harga.
+- Halaman utama dengan informasi tentang jenis-jenis kucing.
+- Tampilan daftar makanan kucing dengan gambar dan harga.
 - Formulir kontak untuk pengunjung.
 
 ## Struktur Folder
 ```
-📁 restoran-lezat-website
+📁 website-kucing
 │── 📄 index.html  (Halaman utama)
 │── 📄 README.md   (Dokumentasi ini)
 │── 📁 assets      (Folder untuk gambar dan file pendukung lainnya)
